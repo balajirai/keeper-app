@@ -1,6 +1,6 @@
 # Keeper App
 
-This is a front-end web application akin to Google Keep which allow users to make notes. [Keeper App](https://reactnoteskeeper.netlify.app/)
+[Keeper App](https://reactnoteskeeper.netlify.app/) is a front-end web application akin to Google Keep which allow users to make notes.
 
 ---
 
